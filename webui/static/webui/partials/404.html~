@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>404 Error Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="col-md-8">
+    <h2>Is It Something We Said?</h2>
+    <p><h4>It's really sad to see you want to leave. We'd be happy to have you back anytime!</h4></p>
+    <p>Please keep in mind that <strong>deleting your CaseRails account is permanent</strong> and will remove all of your stored documents, templates and forms forever.</p>
+  </div>
+  <form role="form">
+    <div class="form-group col-md-8">
+      <textarea class="form-control" rows="5" id="comment" placeholder="Is there anything you'd like to tell us?"></textarea>
+      <br>
+      <button type="button" class="btn btn-danger">Leave CaseRails</button>
+    </div>
+  </form>
+</div>
